@@ -18,11 +18,10 @@ Makefile.in
 /config.h.in
 /config.sub
 /configure
-/configure.scan
-/depcomp
-/install-sh
-/missing
-/stamp-h1
+
+
+// this is what I add it 2018-01-29
+
 
 # https://www.gnu.org/software/libtool/
 
